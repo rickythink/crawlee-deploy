@@ -3,9 +3,9 @@ import {  createPlaywrightRouter } from 'crawlee';
 export const router = createPlaywrightRouter();
 
 const list = [
-    // 'https://trends.google.com/trends/explore?date=today%201-m&geo=US&q=headset&hl=zh-CN',
-    // 'https://trends.google.com/trends/explore?date=now%207-d&geo=US&q=headset&hl=zh-CN',
-    // 'https://trends.google.com/trends/explore?date=today%203-m&geo=US&q=headset&hl=zh-CN',
+    'https://trends.google.com/trends/explore?date=today%201-m&geo=US&q=headset&hl=zh-CN',
+    'https://trends.google.com/trends/explore?date=now%207-d&geo=US&q=headset&hl=zh-CN',
+    'https://trends.google.com/trends/explore?date=today%203-m&geo=US&q=headset&hl=zh-CN',
     'https://trends.google.com/trends/explore?geo=US&q=headset&hl=zh-CN'
 ]
 
